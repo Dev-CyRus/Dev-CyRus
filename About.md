@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Dev-CyRus
-- 👀 I’m interested in small project
+- 👀 I’m interested in Discord.js
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on ...
 - 📫 Gmail: hasanmorshed237@gmail.com
 
 <!---
